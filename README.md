@@ -1,2 +1,2 @@
-# Code_Clause_TextEditorIntership
-This Is my First Project In CodeClause2023
+# Code_Clause_2023InterShip
+This Is my First Java Developer Internship In @CodeClause.
